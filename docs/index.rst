@@ -6,15 +6,9 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
-
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 Indices and tables
 ==================
