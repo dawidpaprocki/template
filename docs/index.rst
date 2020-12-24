@@ -9,7 +9,7 @@ Welcome to Read the Docs Template's documentation!
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
-
+For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 Indices and tables
 ==================
 
