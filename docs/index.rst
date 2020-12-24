@@ -18,3 +18,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Get the latest news at `CNN`_.
+
+.. _CNN: http://cnn.com/
+
